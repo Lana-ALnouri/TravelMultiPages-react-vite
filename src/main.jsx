@@ -4,7 +4,7 @@ import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom'
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <BrowserRouter basename=''>
+  <BrowserRouter basename='/TravelMultiPages-react-vite'>
     <React.StrictMode>
       <App />
     </React.StrictMode>
